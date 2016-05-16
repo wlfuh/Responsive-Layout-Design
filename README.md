@@ -1,13 +1,5 @@
 # Responsive-Layout-Design
 A template of a web page design that changes based on screen size.
-<script>
-    var links = document.querySelectorAll( '.post-content a' );  
-    for (var i = 0, length = links.length; i < length; i++) {  
-        if (links[i].hostname != window.location.hostname) {
-            links[i].target = '_blank';
-        }
-    }
-</script>
 <b>Features of this page include:</b>
 <ul>
 <li> Text Resizer </li>
