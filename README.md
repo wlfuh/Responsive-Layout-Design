@@ -20,6 +20,6 @@ A template of a web page design that changes based on screen size.
 <li> Back to top button </li>
 </ul>
 </br>
-To see the page live click <a href="http://abri-sports.com/william/Responsive/" target="_blank">here</a>.
+To see the page live click <a target="_blank" href="http://abri-sports.com/william/Responsive/">here</a>.
 </br>
 You may borrow code from this design, but <b> do not </b> use for business purposes.
