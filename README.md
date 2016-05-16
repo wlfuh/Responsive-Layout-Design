@@ -22,4 +22,4 @@ A template of a web page design that changes based on screen size.
 </br>
 To see the page live click <a href="http://abri-sports.com/william/Responsive/" target="_blank">here</a>.
 </br>
-You may borrow code from this design, but <b> do not </b> use for business purporses.
+You may borrow code from this design, but <b> do not </b> use for business purposes.
